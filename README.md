@@ -11,6 +11,7 @@ source venv/bin/activate
 ## Starting the server
 ```
 uvicorn main:app
+```
 
 ## CRUD
 - C : Create POST
